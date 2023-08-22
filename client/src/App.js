@@ -1,9 +1,9 @@
-import Component from "./pages/Component";
+import Component123 from "./pages/Component";
 
 function App() {
   return (
     <>
-      <Component />
+      <Component123 />
     </>
   );
 }
